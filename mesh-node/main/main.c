@@ -11,7 +11,7 @@
 #include "led_indicator.h"
 #include "mesh_node.h"
 #include "sdkconfig.h"
-#define aaa          1
+
 #define MAX_DEVICES  6
 #define RELAY_1      16
 #define BUTTON_1     17
